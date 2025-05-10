@@ -1,0 +1,17 @@
+[
+    {"region": "North", "candidate": "John Doe", "party": "NDP", "votes": 45000},
+    {"region": "North", "candidate": "Jane Smith", "party": "Liberal", "votes": 38000},
+    {"region": "North", "candidate": "Robert Brown", "party": "Conservative", "votes": 42000},
+    {"region": "South", "candidate": "John Doe", "party": "NDP", "votes": 52000},
+    {"region": "South", "candidate": "Jane Smith", "party": "Liberal", "votes": 48000},
+    {"region": "South", "candidate": "Robert Brown", "party": "Conservative", "votes": 45000},
+    {"region": "East", "candidate": "John Doe", "party": "NDP", "votes": 39000},
+    {"region": "East", "candidate": "Jane Smith", "party": "Liberal", "votes": 41000},
+    {"region": "East", "candidate": "Robert Brown", "party": "Conservative", "votes": 47000},
+    {"region": "West", "candidate": "John Doe", "party": "NDP", "votes": 36000},
+    {"region": "West", "candidate": "Jane Smith", "party": "Liberal", "votes": 44000},
+    {"region": "West", "candidate": "Robert Brown", "party": "Conservative", "votes": 51000},
+    {"region": "Central", "candidate": "John Doe", "party": "NDP", "votes": 41000},
+    {"region": "Central", "candidate": "Jane Smith", "party": "Liberal", "votes": 46000},
+    {"region": "Central", "candidate": "Robert Brown", "party": "Conservative", "votes": 43000}
+  ]

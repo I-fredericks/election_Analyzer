@@ -1,0 +1,578 @@
+[
+  {
+    "region": "Ashanti",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 148565
+  },
+  {
+    "region": "Ashanti",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 95143
+  },
+  {
+    "region": "Ashanti",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 64789
+  },
+  {
+    "region": "Ashanti",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 134183
+  },
+  {
+    "region": "Ashanti",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 543724
+  },
+  {
+    "region": "Ashanti",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 113850
+  },
+  {
+    "region": "Greater Accra",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 54972
+  },
+  {
+    "region": "Greater Accra",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 312038
+  },
+  {
+    "region": "Greater Accra",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 398315
+  },
+  {
+    "region": "Greater Accra",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 501975
+  },
+  {
+    "region": "Greater Accra",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 228354
+  },
+  {
+    "region": "Greater Accra",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 507124
+  },
+  {
+    "region": "Northern",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 600266
+  },
+  {
+    "region": "Northern",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 382414
+  },
+  {
+    "region": "Northern",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 301602
+  },
+  {
+    "region": "Northern",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 671538
+  },
+  {
+    "region": "Northern",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 100941
+  },
+  {
+    "region": "Northern",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 278569
+  },
+  {
+    "region": "Volta",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 218652
+  },
+  {
+    "region": "Volta",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 696236
+  },
+  {
+    "region": "Volta",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 88453
+  },
+  {
+    "region": "Volta",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 125891
+  },
+  {
+    "region": "Volta",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 50041
+  },
+  {
+    "region": "Volta",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 554503
+  },
+  {
+    "region": "Western",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 404006
+  },
+  {
+    "region": "Western",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 249808
+  },
+  {
+    "region": "Western",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 294769
+  },
+  {
+    "region": "Western",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 304363
+  },
+  {
+    "region": "Western",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 517941
+  },
+  {
+    "region": "Western",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 118624
+  },
+  {
+    "region": "Eastern",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 94915
+  },
+  {
+    "region": "Eastern",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 234741
+  },
+  {
+    "region": "Eastern",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 222927
+  },
+  {
+    "region": "Eastern",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 331552
+  },
+  {
+    "region": "Eastern",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 530734
+  },
+  {
+    "region": "Eastern",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 311490
+  },
+  {
+    "region": "Central",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 458782
+  },
+  {
+    "region": "Central",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 642649
+  },
+  {
+    "region": "Central",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 389218
+  },
+  {
+    "region": "Central",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 524878
+  },
+  {
+    "region": "Central",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 287319
+  },
+  {
+    "region": "Central",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 231990
+  },
+  {
+    "region": "Bono",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 577055
+  },
+  {
+    "region": "Bono",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 501049
+  },
+  {
+    "region": "Bono",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 180651
+  },
+  {
+    "region": "Bono",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 162530
+  },
+  {
+    "region": "Bono",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 123933
+  },
+  {
+    "region": "Bono",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 414487
+  },
+  {
+    "region": "Upper East",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 141827
+  },
+  {
+    "region": "Upper East",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 385865
+  },
+  {
+    "region": "Upper East",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 607333
+  },
+  {
+    "region": "Upper East",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 421240
+  },
+  {
+    "region": "Upper East",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 641960
+  },
+  {
+    "region": "Upper East",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 377464
+  },
+  {
+    "region": "Savannah",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 262137
+  },
+  {
+    "region": "Savannah",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 242799
+  },
+  {
+    "region": "Savannah",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 698720
+  },
+  {
+    "region": "Savannah",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 158358
+  },
+  {
+    "region": "Savannah",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 479588
+  },
+  {
+    "region": "Savannah",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 98869
+  },
+  {
+    "region": "Upper West",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 204245
+  },
+  {
+    "region": "Upper West",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 615988
+  },
+  {
+    "region": "Upper West",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 443558
+  },
+  {
+    "region": "Upper West",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 254344
+  },
+  {
+    "region": "Upper West",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 231590
+  },
+  {
+    "region": "Upper West",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 322003
+  },
+  {
+    "region": "Oti",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 238028
+  },
+  {
+    "region": "Oti",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 675568
+  },
+  {
+    "region": "Oti",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 108309
+  },
+  {
+    "region": "Oti",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 244074
+  },
+  {
+    "region": "Oti",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 668264
+  },
+  {
+    "region": "Oti",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 174100
+  },
+  {
+    "region": "Bono East",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 350945
+  },
+  {
+    "region": "Bono East",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 436116
+  },
+  {
+    "region": "Bono East",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 569771
+  },
+  {
+    "region": "Bono East",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 424682
+  },
+  {
+    "region": "Bono East",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 673198
+  },
+  {
+    "region": "Bono East",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 169843
+  },
+  {
+    "region": "Ahafo",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 196343
+  },
+  {
+    "region": "Ahafo",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 135697
+  },
+  {
+    "region": "Ahafo",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 524800
+  },
+  {
+    "region": "Ahafo",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 414499
+  },
+  {
+    "region": "Ahafo",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 261038
+  },
+  {
+    "region": "Ahafo",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 524603
+  },
+  {
+    "region": "North East",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 414526
+  },
+  {
+    "region": "North East",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 352753
+  },
+  {
+    "region": "North East",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 208578
+  },
+  {
+    "region": "North East",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 685405
+  },
+  {
+    "region": "North East",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 355046
+  },
+  {
+    "region": "North East",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 478144
+  },
+  {
+    "region": "Western North",
+    "candidate": "Kwame Mensah",
+    "party": "NPP",
+    "votes": 64019
+  },
+  {
+    "region": "Western North",
+    "candidate": "Kojo Asante",
+    "party": "NDC",
+    "votes": 317941
+  },
+  {
+    "region": "Western North",
+    "candidate": "Yaw Boateng",
+    "party": "CPP",
+    "votes": 62343
+  },
+  {
+    "region": "Western North",
+    "candidate": "Akua Badu",
+    "party": "PPP",
+    "votes": 626470
+  },
+  {
+    "region": "Western North",
+    "candidate": "Selorm Dzakpasu",
+    "party": "PNC",
+    "votes": 308259
+  },
+  {
+    "region": "Western North",
+    "candidate": "Grace Tetteh",
+    "party": "GUM",
+    "votes": 125504
+  }
+]
